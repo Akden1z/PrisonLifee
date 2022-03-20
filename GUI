@@ -1,0 +1,13 @@
+--- PREVAIL-X ---
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Akden1z/PrevailX/main/OLDGUI", true))()
+--= ADMIN CMD --=
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Akden1z/Scripts/main/PrisonLifeV4",true))();
+---- NOTFICATION ----
+game.StarterGui:SetCore("SendNotification", {
+    Title = "Prison Life";
+    Text = "Made by ! Akdeniz#4752)"; -- what is Akdeniz Ofc i will run script..
+    Duration = 5;
+})
+--- INFYIELD BTOOLS ---
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Akden1z/Admin/main/InfiniteYieldMaster", true))()
+--- BLOWJOBK I LOVE IT ---
