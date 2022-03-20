@@ -1,5 +1,4 @@
---- PREVAIL-X ---
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Akden1z/PrevailX/main/OLDGUI", true))()
+--- AKDENIZ HUB ---
 --= ADMIN CMD --=
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Akden1z/Scripts/main/PrisonLifeV4",true))();
 ---- NOTFICATION ----
@@ -10,4 +9,4 @@ game.StarterGui:SetCore("SendNotification", {
 })
 --- INFYIELD BTOOLS ---
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Akden1z/Admin/main/InfiniteYieldMaster", true))()
---- BLOWJOBK I LOVE IT ---
+--- BLOWJOBK I LOVE IT --
